@@ -1,10 +1,10 @@
 Passionate about programming and problem solver. Computer Science student focused on back-end development.
 
-- 🛠️ My main stack is Java, Spring, SQL Server, PostgreSQL, GCP, Git
+- 🐍 My main stack is Python, Django, Flask, PostgreSQL, MongoDB, GCP, Git
 
-- 🍃 I also like a lot to developing with Python ^-^
+- 🛠️ I also like a lot to developing with Java and Spring
 
-- 📚 I'm currently learning AWS and some back-end concepts
+- 👀 I'm very interested in Web3, Blockchain, etc.
 
 - ✨ I love music and japanese food (●'◡'●)
 
