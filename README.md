@@ -1,6 +1,6 @@
 Passionate about programming and problem solver. Computer Science student focused on back-end development.
 
-- 🛠️ My main stack is Java, Spring, SQL Server, PostgreSQL, GCP, Git
+- 🛠️ My main stack is Java, Spring, SQL Server, MySQL, GCP, Git
 
 - 🐍 I also like to develop with Python
 
