@@ -1,11 +1,9 @@
-Passionate about programming and problem solver. Computer Science student focused on back-end development.
+Hi (●'◡'●)
 
-- 🛠️ My main stack is Java, Spring, SQL Server, MySQL, GCP, Git
+Software development with TypeScript, Node.js, React, Python and others.
 
-- 🐍 I also like to develop with Python
+Self-taught, proactive and always looking to improve ideas and products.
 
-- 👀 I'm very interested in Web3, Blockchain, etc.
+Currently working on Carrefour Brasil.
 
-- ✨ I love music and japanese food (●'◡'●)
-
-"Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them."
+Getting better every day.
