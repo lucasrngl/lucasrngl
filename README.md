@@ -1,4 +1,4 @@
-Computer Science student and problem solver, developing software solutions.
+Computer Science student and problem solver, focused on back-end development.
 
 Self-taught, proactive and always looking to improve products and ideas.
 
