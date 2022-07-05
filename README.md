@@ -19,5 +19,4 @@ Self-taught, proactive and always looking to improve products and ideas.
     <img src="https://img.shields.io/badge/Git-3178C6?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-3178C6?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-3178C6?style=for-the-badge&logo=graphql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Yarn-3178C6?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
