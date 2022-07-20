@@ -1,4 +1,4 @@
-### Hi there! I'm Lusca
+### Hi there! I'm Lusca ✨️
 
 <img align="right" src="assets/killua.gif" width="200"/> 
 
@@ -7,7 +7,7 @@ I'm a software engineer with experience in back-end development using programmin
 ### Fun facts about me
 
 - 🐱️ I have a cat called Rakan
-- ㊗️ My favorite anime is Hunter x Hunter
+- ❤️‍🔥️ My favorite anime is Hunter x Hunter
 - 🍣️ I love japanese food
 - 🎨️ I do some drawings
 - 💿️ Frank Ocean's Blonde is the album I've most listened to in my life
