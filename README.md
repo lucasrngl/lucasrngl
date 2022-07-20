@@ -7,9 +7,8 @@ I'm a software engineer with experience in back-end development using programmin
 ### Fun facts about me
 
 - 🐱️ I have a cat called Rakan
-- ❤️‍🔥️ My favorite anime is Hunter x Hunter
 - 🍣️ I love japanese food
-- 🎨️ I do some drawings
+- ❤️‍🔥️ Hunter x Hunter is my favorite anime
 - 💿️ Frank Ocean's Blonde is the album I've most listened to in my life
 
 _Getting better every day._
