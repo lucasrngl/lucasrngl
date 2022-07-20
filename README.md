@@ -1,6 +1,16 @@
-Computer Science student and problem solver, focused on back-end development.
+### Hi there! I'm Lusca
 
-Self-taught, proactive and always looking to improve products and ideas.
+<img align="right" src="assets/killua.gif" width="200"/> 
+
+I'm a software engineer with experience in back-end development using programming tools such as Node.js, TypeScript, Python, SQL, Git, and others. Good teamwork, proactive and always looking to improve products and ideas.
+
+### Fun facts about me
+
+- 🐱️ I have a cat called Rakan
+- ㊗️ My favorite anime is Hunter x Hunter
+- 🍣️ I love japanese food
+- 🎨️ I do some drawings
+- 💿️ Frank Ocean's Blonde is the album I've most listened to in my life
 
 _Getting better every day._
 
