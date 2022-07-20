@@ -2,7 +2,7 @@
 
 <img align="right" src="assets/killua.gif" width="200"/> 
 
-I'm a software engineer with experience in back-end development using programming tools such as Node.js, TypeScript, Python, SQL, Git, and others. Good teamwork, proactive and always looking to improve products and ideas.
+I'm a software engineer with experience in back-end development using programming tools such as Node.js, TypeScript, Python, SQL, Git, and others. Self-taught, proactive and always looking to improve products and ideas.
 
 ### Fun facts about me
 
