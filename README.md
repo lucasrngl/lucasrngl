@@ -1,17 +1,18 @@
 ### Hi there! I'm Lusca ✨️
 
-<img align="right" src="assets/killua.gif" width="200"/> 
+<img align="right" src="assets/killua.gif" width="200"/>
 
 I'm a software engineer with experience in back-end development using programming tools such as Node.js, TypeScript, Python, SQL, Git, and others. Self-taught, proactive and always looking to improve products and ideas.
 
-### Fun facts about me
+### Some facts about me
 
 - 🐱️ I have a cat called Rakan
 - 🍣️ I love japanese food
 - ❤️‍🔥️ Hunter x Hunter is my favorite anime
-- 💿️ Frank Ocean's Blonde is the album I've most listened to in my life
 
 _Getting better every day._
+
+<img src="https://www.codewars.com/users/lucasrngl/badges/small"/>
 
 ### My stack
 
