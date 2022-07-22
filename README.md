@@ -12,9 +12,7 @@ I'm a software engineer with experience in back-end development using programmin
 
 _Getting better every day._
 
-<a href="https://www.codewars.com/users/lucasrngl" target="_blank">
-    <img src="https://www.codewars.com/users/lucasrngl/badges/small"/>
-</a>
+<img src="https://www.codewars.com/users/lucasrngl/badges/small"/>
 
 ### My stack
 
