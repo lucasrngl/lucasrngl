@@ -22,8 +22,6 @@ _Getting better every day._
     <img src="https://img.shields.io/badge/Node.js-3178C6?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-3178C6?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/nestjs-3178C6?style=for-the-badge&logo=nestjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Yarn-3178C6?style=for-the-badge&logo=yarn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/npm-3178C6?style=for-the-badge&logo=npm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-3178C6?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-3178C6?style=for-the-badge&logo=css3&logoColor=white"/>
